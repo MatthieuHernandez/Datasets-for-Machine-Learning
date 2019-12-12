@@ -2,7 +2,7 @@
 This repository contains all the datasets used to test the library StraightforwardNeuralNetwork.
 
 ## Datasets
-|__Data Set Name__|__Link__|
+|__Dataset Name__|__Link__|
 |-----------------|--------|
 | CIFAR-10 | https://www.cs.toronto.edu/~kriz/cifar.html |
 | Mnist | http://yann.lecun.com/exdb/mnist/ |
